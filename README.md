@@ -2,8 +2,9 @@
 # EARTHQUAKE APP
 
 <p align="center">
-<img  src="picture/MainMenu.PNG" height=300 />
+<img  src="picture/MainMenu.PNG" height=500 />
 </p>
+
 *<p align="center">This is a main menu of app</p>*
 
 *There are three main goal on Earthquake app.* 
