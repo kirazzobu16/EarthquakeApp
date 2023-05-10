@@ -10,14 +10,25 @@
 *There are three main goal on Earthquake app.* 
 - ## ***First: İnformation about earthquake***
 
-![İnformationMenu](picture/İnformationMenu.PNG)
+
+<p align="center">
+<img  src="picture/İnformationMenu.PNG" height=500 />
+</p>
 
 - ## ***Second: Gathering Areas in Bursa.***
 
 *<p align="center">Select your district and village</p>*
-![GatheringAreas](picture/GatheringAreas.PNG)
+<p align="center">
+<img  src="picture/GatheringAreas.PNG" height=500 />
+</p>
+
 *<p align="center">See where's your gathering area</p>*
-![Areas](picture/Areas.PNG)
+<p align="center">
+<img  src="picture/Areas.PNG" height=500 />
+</p>
+
  
 - ##  ***Third: Alarm button***
-![AlarmButton](picture/AlarmButton.PNG)
+<p align="center">
+<img  src="picture/AlarmButton.PNG" height=500 />
+</p>
